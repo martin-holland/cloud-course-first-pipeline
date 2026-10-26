@@ -1,0 +1,9 @@
+{
+  "name": "cloud-course-first-pipeline",
+  "version": "1.0.0",
+  "description": "Tiny web app used to test a push-to-deploy pipeline from GitHub to Azure App Service (course material, Business College Helsinki).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
